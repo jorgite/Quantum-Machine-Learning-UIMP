@@ -1,7 +1,8 @@
 EXERCISE UNIT 1
 
-For the evaluation of this unit, the student is asked to solve the following problem using the above Python Notebooks.
+(must be send before 27/11/2025 at 10.00 via the virtual campus)
 
+For the evaluation of this unit, the student is asked to solve the following problem (about probability distributions, error bars and confidence intervals) using Python Notebooks. Study the background theoretical material on probability theory and concentration inequalities in UD 1.7. 
 Create a script that generates random data from different distributions. Compare: (a) a normal or Gaussian distribution for different values of the variance and mean, (b) a uniformly random distribution, (c) the beta distribution.
 
 Problem 1. Estimate and compare the confidence intervals or error bars obtained for each distribution using Hoeffding's inequality and the Chebyshev inequality (for the latter one, you need to analyze or empirically estimate the variance).
