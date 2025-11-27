@@ -1,6 +1,6 @@
 EXERCISE UNIT 1
 
-(must be send before 27/11/2025 at 10.00 via the virtual campus, providint the link to the repository)
+(must be send before 27/11/2025 at 10.00 via the virtual campus, providing the link to the repository)
 Solve problems about probability distributions, error bars and confidence intervals using Python Notebooks. 
 Study the background theoretical material on probability theory and concentration inequalities. 
 
